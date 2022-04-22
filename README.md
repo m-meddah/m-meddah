@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Présention
-Je m'appelle Madjid, je suis en pleine reconversion professionnelle pour devenir **développeur web fullstack JS** en suivant la formation chez **O'clock**.
+Je m'appelle Madjid, je suis en pleine reconversion professionnelle pour devenir **développeur web fullstack JS** en suivant la formation chez **[O'clock](https://oclock.io/)** du 15 janvier 2022 au 1er juillet 2022. **O'clock** nous donne la possibilité de nous spécialiser soit côté frontend avec une spécialisation **React** soit côté backend avec une spécialisation **API & Datas**. C'est cette dernière que j'ai choisi.</br>
 Fort de 13 années d'expériences en tant que technicien de laboratoire, j'ai développé quelques soft skills tels que la polyvalance, l'esprit d'équipe, la communication, la rigueur ou encore la capacité d'analyse et la gestion du stress.
 
 ## 🔧 Languages & tools

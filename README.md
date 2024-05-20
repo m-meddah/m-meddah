@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## Présention
-Je m'appelle Madjid, je suis **développeur web fullstack JS**, j'ai suivi la formation chez **[O'clock](https://oclock.io/)** du 15 janvier 2022 au 1er juillet 2022. **O'clock** m'a donné la possibilité de me spécialiser côté backend avec une spécialisation **API & Data**. J'ai ainsi pu créer des **API**, voir du language **SQL** avancé (avec création de fonction, d'index, de domaine, etc...) et avoir une approche des bases de données **NoSQL** telles que **MongoDB** ou **GraphQL**.</br>
+Je m'appelle Madjid, je suis **développeur web fullstack JS**, j'ai suivi la formation chez **[O'clock](https://oclock.io/)** du 15 janvier 2022 au 1er juillet 2022.</br>
+**O'clock** m'a donné la possibilité de me spécialiser côté backend avec une spécialisation **API & Data**. J'ai ainsi pu créer des **API**, voir du language **SQL** avancé (avec création de fonction, d'index, de domaine, etc...) et avoir une approche des bases de données **NoSQL** telles que **MongoDB** ou **GraphQL**.</br>
 
 Je me forme actuellement au métaframework **Next.js** en utilisant **TypeScript** et **Tailwind CSS**, tout en étant un membre actif du site **[365 Data Science](https://365datascience.com)**.</br>
 

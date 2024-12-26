@@ -4,9 +4,9 @@
 Je m'appelle Madjid, je suis **développeur web fullstack JS**, j'ai suivi la formation chez **[O'clock](https://oclock.io/)** du 15 janvier 2022 au 1er juillet 2022.</br>
 **O'clock** m'a donné la possibilité de me spécialiser côté backend avec une spécialisation **API & Data**. J'ai ainsi pu créer des **API**, voir du language **SQL** avancé (avec création de fonction, d'index, de domaine, etc...) et avoir une approche des bases de données **NoSQL** telles que **MongoDB** ou **GraphQL**.</br>
 
-Je me forme actuellement au métaframework **Next.js** en utilisant **TypeScript** et **Tailwind CSS**, tout en étant un membre actif du site **[365 Data Science](https://365datascience.com)**.</br>
+Je me forme actuellement au métaframework **Next.js** en utilisant **TypeScript** et **Tailwind CSS**, et au développement mobile avec **React Native** et notamment avec **Expo** tout en étant un membre actif du site **[365 Data Science](https://365datascience.com)**.</br>
 
-Fort de 16 années d'expériences en tant que technicien de laboratoire, j'ai pu développé quelques soft skills tels que la polyvalence, l'esprit d'équipe, la collaboration, la communication, la rigueur ou encore la capacité d'analyse et la gestion du stress.
+Fort de 16 années d'expériences en tant que technicien de laboratoire polyvalent, et étant référent informatique et auditeur interne, j'ai pu développé quelques soft skills tels que la polyvalence, l'esprit d'équipe, la collaboration, la communication, la rigueur ou encore la capacité d'analyse et la gestion du stress.
 
 ## 🔧 Languages & tools
 
